@@ -1,1 +1,5 @@
-export const initialState = 0;
+export const initialState = {
+    isExpanded: false,
+    word: '',
+    sentences: [],
+};
